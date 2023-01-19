@@ -14,6 +14,8 @@ In doing so, I first clean the dataset column for deaths to ensure it has only 2
 
 I then perform the calculations for each hypothesis, then test each hypothesis with the t-test for statistical validity.
 
+I intentionally chose an early-2020 COVID dataset as it can show us how initial statistical analysis would offer us an idea as to future trends, whether we can rely on these calculations to bear out in the future etc.
+
 **Project Files and Data Source Citation**
 
 There is 1 project file (R) and 1 data file (CSV) in this repository.
