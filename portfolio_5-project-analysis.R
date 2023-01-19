@@ -128,8 +128,9 @@ mean(SKorea$death_alt, na.rm = TRUE)
 
 
 t.test(SKorea$death_alt, Japan$death_alt, alternative = "two.sided", conf.level = 0.99)
-# With 99% confidence, South Korea has between 2% less and 12.5% more deaths than Japan.
-# But p-value is 0.06, which is more than 0.05. Therefore, statistical significance is questionable.
+# With 99% confidence, S Korea has between 2% less and 12.5% more deaths than Japan.
+# But p-value is 0.06, which is more than 0.05.
+# Therefore, statistical significance is questionable.
 
 
 # As mentioned at the beginning, this is an early COVID data set (from 2020).
