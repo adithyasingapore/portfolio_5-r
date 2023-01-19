@@ -35,8 +35,7 @@ covid$death_alt <- as.integer(covid$death != 0)
 
 # The "unique" command it returns each different unique value.
 unique(covid$death_alt)
-# When we run this, it returns only 2 values, '0' and '1', so we're good to go.
-
+# When we run this, it returns only 2 values, '0' and '1', so it's ready.
 
 
 # Calculating death rate - sum of deaths divided by number of rows
